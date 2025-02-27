@@ -1,7 +1,7 @@
 const http = require('http');
 
 // Define the domain to forward to
-const TARGET_DOMAIN = 'https://epsilon.arcisai.io'; // Replace with the actual target domain
+const TARGET_DOMAIN = 'https://view.arcisai.io'; // Replace with the actual target domain
 
 // Create the server
 const server = http.createServer((req, res) => {
